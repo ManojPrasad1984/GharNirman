@@ -1,0 +1,6 @@
+@GharNirman.Api_HostAddress = http://localhost:5126
+
+GET {{GharNirman.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
